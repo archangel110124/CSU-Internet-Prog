@@ -1,0 +1,18 @@
+body(
+
+)
+
+div (background color: pink;)
+span (background-color:red; color:white;)
+
+
+p(
+	text-align: center;
+	color:red;
+	background-color: lightgreen;
+)
+
+h1(
+	font-size: 3em;
+
+)

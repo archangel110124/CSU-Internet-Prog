@@ -1,18 +1,34 @@
-body(
+body{
+color: green;
 
-)
-
-div (background color: pink;)
-span (background-color:red; color:white;)
-
-
-p(
+}
+nav{
+	color: blue;
+}
+div {background color: pink;}
+span {background-color:red; color:white;}
+p{
 	text-align: center;
 	color:red;
 	background-color: lightgreen;
-)
+}
 
-h1(
-	font-size: 3em;
+h1{
+	font-size: 3m;
 
-)
+}
+.myClass
+{
+color: gray;
+background-color: red;	
+}
+#myID{
+	font-size: 0.75m;
+	color:navy;
+}
+
+#container{margin-left:auto;
+		   margin-right:auto;
+		   width:90%;
+	
+}
